@@ -18,13 +18,13 @@ Songyue (Landon) Wang (王嵩岳) is now a B.S. candidate major in Computer Scie
 + **SERVE: An Agile Hardware Design and Evaluate Platform Based on CI/CD and Cloud FPGAs** (Jul. 2020 - Sept. 2021)\
   *Researcher, [State Key Laboratory of Computer Architecture (SKLCA), ICT, CAS](http://english.ict.cas.cn/rh/rd/200908/t20090820_33353.html)*
   
-+ **Asynchronous Memory Access Unit with Message Interface based Memory System** (Jul. 2021-Jun. 2023)\
++ **RISC-V Async Memory Access Unit (AMU) with Message Interface Prototype System** (Jul. 2021-Jun. 2022)\
   *Researcher, SKLCA, ICT, CAS*
 
-+ **ByteFPGA: FPGA Development Middle-Platform for AI Computing Acceleration** (Oct. 2021-Mar. 2022)\
++ **ByteFPGA: FPGA Development Middle-Platform for AI Computing Acceleration** (Oct. 2021-Feb. 2022)\
   *Intern Researcher, [Data System Group, AI Laboratory, ByteDance Inc](https://ailab.bytedance.com/research)*
   
-+ **Terminus: Resource Disaggregation for Heterogeneous Cloud Computing Platform** (Dec. 2021-Mar.2022)\
++ ****Software Defined Rack (SDR) for Resource Disaggregation in Cloud Computing**** (Feb. 2022-May.2022)\
   *Intern Researcher, [System and Network Research Group, Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/)*
  
 ## Selected Projects
@@ -55,11 +55,8 @@ Songyue (Landon) Wang (王嵩岳) is now a B.S. candidate major in Computer Scie
   Designed course projects, organized and participated in course Q&A sessions and wrote instruction manual to help
 students’ debugging. Class taught totaled 100+ undergraduates major in CS.
 
-## Publications & Patents
-1. Zelin Wang, Ke Zhang, Yisong Chang, Ran Zhao, **Songyue Wang**, Yuxiao Chen, Mingyu Chen and Yungang Bao.
-SERVE: A Fully Online Experimental Platform with Cloud IDE and FPGAs for Computer System Courses. *53rd
-ACM SIGCSE Technical Symposium* (SIGCSE) 2022. 
-2. **Songyue Wang** at ICT, CAS. A Method of FPGA Cluster Management and Bitstream Deployment. *China Patent* 2021.
+## Patents
+1. **Songyue Wang** at ICT, CAS. A Method of FPGA Cluster Management and Bitstream Deployment. *China Patent* 2021.
 
 ## Awards
 
