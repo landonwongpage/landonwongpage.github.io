@@ -1,8 +1,8 @@
 - title: Home
   url: /
-- title: Research
-  url: /about/
+- title: Resume
+  url: /LandonWong-CV.pdf
 - title: Projects
   url: /project/index
 - title: About
-  url: https://www.etsy.com
+  url: /about/about
