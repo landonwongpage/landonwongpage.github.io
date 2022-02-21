@@ -10,6 +10,8 @@ classes: wide
 
 UCAS-OS is a unix-like OS based on RISC-V64GC, and it was designed to run on FPGA on dual-core Rocket Chip. It has rich system calls, isolation and security (different processor modes, virtual memory), synchronization and communication, peripheral drivers and file systems. It's available at [Gitee Repo](https://gitee.com/landonwong/UCAS_OS).
 
+![ucasos](../assets/ucas-os.jpg)
+
 ## Demo
 + Receive ELF file from NIC to local FS and execute it!
 + Parallel add test on scheduler with dual core!
